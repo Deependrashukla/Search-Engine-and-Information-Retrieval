@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` file for your code. It explains the purpose of the project, how it works, and provides instructions for usage.
-
----
 
 # Document Similarity Analysis Using TF-IDF and Cosine Similarity
 
@@ -152,5 +149,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Built using Python's standard libraries for simplicity and portability.
 
 ---
-
-Feel free to reach out if you have any questions or suggestions!
